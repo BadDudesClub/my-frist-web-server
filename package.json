@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BadDudesClub/my-frist-web-server/issues"
   },
-  "homepage": "https://github.com/BadDudesClub/my-frist-web-server#readme"
+  "homepage": "https://github.com/BadDudesClub/my-frist-web-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
