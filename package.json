@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BadDudesClub/my-frist-web-server#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
   }
 }
